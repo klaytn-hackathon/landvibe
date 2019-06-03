@@ -48,7 +48,7 @@ In klaytn baobab network, Retains authentication information about the product. 
 **Product Detail for customer**
 ![Trust Farm Item Detail View](http://landvibe.cafe24.com/img/trustfarm_product_detail.png)
 
-**Product timelapse uploaded by farmer**
+**Product timelapse uploaded by farmer **
 
 ![Trust Farm Item View](http://landvibe.cafe24.com/img/trustfarm_koreamelon.webp)
 
