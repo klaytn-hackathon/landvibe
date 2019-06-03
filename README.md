@@ -48,9 +48,9 @@ In klaytn baobab network, Retains authentication information about the product. 
 **Product Detail for customer**
 ![Trust Farm Item Detail View](http://landvibe.cafe24.com/img/trustfarm_product_detail.png)
 
-**Product timelapse uploaded by farmer **
+**Product timelapse uploaded by farmer**
 
-![Trust Farm Item View](http://landvibe.cafe24.com/img/trustfarm-growth.webp)
+![Trust Farm Item View](http://landvibe.cafe24.com/img/trustfarm-growth.gif)
 
 ### 5. Forward Plan
 We made a toy project-level output to confirm the possibility as a service on the block chain
